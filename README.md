@@ -46,7 +46,7 @@ This project is a **Python-based Online Voting System** built using a command-li
 
 - **`voters.py`:** Handles user registration, authentication, and user data management.
 - **`votes.py`:** Contains the voting system logic, including voting and result calculation.
-- **`main.py`:** Entry point for the system, providing a menu-driven interface for interaction.
+- **`voting_system.py`:** Entry point for the system, providing a menu-driven interface for interaction.
 
 ## Requirements
 
@@ -62,7 +62,7 @@ This project is a **Python-based Online Voting System** built using a command-li
 
 2. Run the program:
    ```bash
-   python main.py
+   python voting_system.py
    ```
 
 3. Follow the menu options to register, log in, vote, view results, or exit.
